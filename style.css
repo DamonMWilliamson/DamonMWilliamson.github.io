@@ -95,14 +95,3 @@ table,th,td{
   width:100%;
 }
 
-.blog{
-  background-color: rgb(174, 218, 149);
-  padding-top: 5px;
-  color: #000000;
-  text-wrap: pretty;
-  text-align: right;
-  margin-left: 10%;
-  margin-right: 10%;
-  padding-bottom: 50px;
-  padding-left: 5px;
-}
