@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+    <title>Damons Tech Blog</title>
+    <link>https://damonmwilliamson.github.io/blog/</link>
+    <description>A blog about the tech I like to use and the projects I do.</description>
+
+    <item>
+        <title>Modding My DSi</title>
+        <link>https://damonmwilliamson.github.io/blog/dsi-mod.html</link>
+        <guid>https://damonmwilliamson.github.io/blog/dsi-mod.html</guid>
+        <pubDate>Fri, 12 april 2024 21:05:00 AWST </pubDate>
+        <description>Information on modding my DSi.</description>
+    </item>
+</rss>
