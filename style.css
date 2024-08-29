@@ -92,6 +92,6 @@ table,th,td{
 .navbar{
   border:none ;
   height:60px;
-  width:3000px
-  
+  width:100%;
+
 }
