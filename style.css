@@ -88,3 +88,9 @@ table,th,td{
   border: 1px solid;
   border-collapse: collapse;
 }
+
+.navbar{
+  border:none ;
+  height:60px;
+  width:3000px
+}
