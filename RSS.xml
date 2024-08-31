@@ -4,7 +4,13 @@
         <title>Damons Tech Blog</title>
         <link>https://damonmwilliamson.github.io/blog</link>
         <description>A blog about the tech I like to use and the projects I do.</description>
-
+        <item>
+            <title>Why I Still Use Old Tech</title>
+            <link>https://damonmwilliamson.github.io/blog/olds.html</link>
+            <guid>https://damonmwilliamson.github.io/blog/olds.html</guid>
+            <pubDate>Sat, 30 august 2024 21:55:00 AWST </pubDate>
+            <description>reasons to use old tech and why new tech is bad</description>
+        </item>
         <item>
             <title>Modding My DSi</title>
             <link>https://damonmwilliamson.github.io/blog/dsi-mod.html</link>
