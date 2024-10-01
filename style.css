@@ -1,4 +1,8 @@
 
+.about-me{
+  margin-left: 10px;
+  text-align: left;
+}
 
 .main{
     background-color: rgb(174, 218, 149);
@@ -95,8 +99,5 @@ table,th,td{
   width:100%;
 }
 
-.about-me{
-  margin-left: 10px;
-  text-align: left;
-}
+
 
