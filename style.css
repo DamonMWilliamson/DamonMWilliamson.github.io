@@ -81,6 +81,7 @@
   .topnav a.active {
     background-color: #20301a;
     color: white;
+  
   }
 
   html, body{
@@ -126,10 +127,12 @@ table,th,td{
 /* Update content positioning */
 .content {
   position: absolute;
+  width: 65%;
   left: 20%;
   right: 0;
   top: 0;
   padding: 20px;
+
   background-color: rgb(174, 218, 149);
   color: #000000;
 }
