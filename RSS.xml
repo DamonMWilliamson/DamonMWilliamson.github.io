@@ -4,6 +4,20 @@
         <title>Damons Tech Blog</title>
         <link>https://damonmwilliamson.github.io/blog</link>
         <description>A blog about the tech I like to use and the projects I do.</description>
+                <item>
+            <title>How To Create A Website For Free</title>
+            <link>https://damonw.net/blog/web</link>
+            <guid>https://damonw.net/blog/web</guid>
+            <pubDate>Fri, 10 october 2024 21:05:00 AWST </pubDate>
+            <description>Information on modding my DSi.</description>
+        </item>
+                <item>
+            <title>I built a website template</title>
+            <link>https://damonw.net/blog/web-template</link>
+            <guid>https://damonw.net/blog/web-template</guid>
+            <pubDate>Fri, 10 october 2024 21:05:00 AWST </pubDate>
+            <description>Information on modding my DSi.</description>
+        </item>
         <item>
             <title>Why I Still Use Old Tech</title>
             <link>https://damonmwilliamson.github.io/blog/olds.html</link>
