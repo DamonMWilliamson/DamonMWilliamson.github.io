@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /friends.php
+Disallow: /friends.csv
+Disallow: /printing.php
+Disallow: /photo.php
+
+Sitemap: https://damonw.net/sitemap.xml

@@ -3,14 +3,14 @@
     <head>
         <title>Why I Use Old Tech - Blog - Damon Williamson</title>
         <link rel="icon" type="image/x-icon" href="/resource/favicon.ico">
-        <iframe src="../topnav.html" class="navbar" SCROLLING="No"></iframe>
+        <iframe src="../topnav.php" class="navbar" SCROLLING="No"></iframe>
       </div> 
     </head>
     
     <body> 
         <div id="main-container">
         <div class="sidebar"> 
-            <IFRAME SRC="../blog/sidebar.html" WIDTH="200px" FRAMEBORDER="0" SCROLLING="No" MARGINHEIGHT="0" MARGINWIDTH="0" class="sidebar"></IFRAME><br>
+            <IFRAME SRC="../blog/sidebar.php" WIDTH="200px" FRAMEBORDER="0" SCROLLING="No" MARGINHEIGHT="0" MARGINWIDTH="0" class="sidebar"></IFRAME><br>
         </div>
 
         <div class="content blog">

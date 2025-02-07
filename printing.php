@@ -5,7 +5,7 @@
         <link rel="icon" type="image/x-icon" href="/resource/favicon.ico">
 
        <div class="topnav">
-        <iframe src="../topnav.html" class="navbar" SCROLLING="No"></iframe>
+        <iframe src="../topnav.php" class="navbar" SCROLLING="No"></iframe>
 
       </div> 
     </head>
