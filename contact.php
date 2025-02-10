@@ -12,12 +12,27 @@
         <div class="main">
             <h1>Contact</h1>
             <p>welcome to my amazing web 1.0 stylised website! on here i will keep a blog, offer ipod modding services, offer 3d printing services and more</p>
-            <p>i would prefer it if you were to use email to contact me</p>    
-            <a class="email" href="mailto:damonw@outlook.com.au">damonw@outlook.com.au</a>
+            <p>To contact me fill in the form below</p>  
+            <span class="email_form">  
+            <form name="contact" method="POST" data-netlify="true">
+            <input type="hidden" name="subject" value="Email from damonw.net" />
+                <p>
+                    <label>Your Name: <input type="text" name="name" placeholder=" John Doe" /></labe>
+                </p>
+                <p>
+                    <label>Your Email: <input type="email" name="email" placeholder=" johndoe@example.com"/></label>
+                </p>
+                <p>
+                    <label>&nbsp&nbsp&nbsp&nbspMessage: <textarea name="message"></textarea></label>
+                </p>
+                <p>
+                    <button type="submit">Send</button>
+                </p>
+            </form>
+            </span>
             <div class="socials">
                 <h2>socials:</h2>
                 <ul>
-                    <li><a href="mailto:damonw@outlook.com.au">E-Mail</a></li>
                     <li><a href="https://www.threads.net/@damonw1679">Threads</a></li>
                     <li><a href="https://instagram.com/damonw1679">Instagram</a></li>
                     <li><a href="https://x.com/DamonW677544">Twitter</a></li>
