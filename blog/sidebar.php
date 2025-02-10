@@ -99,11 +99,11 @@ html>body #button li a {
 
 <ul>
 
-<li><a target="_top" href='../blog.php'><span>Home</span></a></li>
-<li><a target="_top" href='../blog/web-template.php'><span>Website Template</span></a></li>
-<li><a target="_top" href='../blog/web.php'><span>How To Make Free Website</span></a></li>
-<li><a target="_top" href='../blog/olds.php'><span>Why I Still Use Old Tech</span></a></li>
-<li><a target="_top" href='../blog/dsi-mod.php'><span>Modding My DSi</span></a></li>
+<li><a target="_top" href='../blog.html'><span>Home</span></a></li>
+<li><a target="_top" href='../blog/web-template.html'><span>Website Template</span></a></li>
+<li><a target="_top" href='../blog/web.html'><span>How To Make Free Website</span></a></li>
+<li><a target="_top" href='../blog/olds.html'><span>Why I Still Use Old Tech</span></a></li>
+<li><a target="_top" href='../blog/dsi-mod.html'><span>Modding My DSi</span></a></li>
    
 </ul>
 

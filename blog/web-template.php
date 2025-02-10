@@ -4,14 +4,14 @@
         <title>website Template - Blog - Damon Williamson</title>
         <link rel="icon" type="image/x-icon" href="/resource/favicon.ico">
 
-        <iframe src="../topnav.php" class="navbar" SCROLLING="No"></iframe>
+        <iframe src="../topnav.html" class="navbar" SCROLLING="No"></iframe>
       </div> 
     </head>
     
     <body>
         <div id="main-container">
             <div class="sidebar"> 
-                <IFRAME SRC="../blog/sidebar.php" WIDTH="200px" FRAMEBORDER="0" SCROLLING="No" MARGINHEIGHT="0" MARGINWIDTH="0" class="sidebar"></IFRAME><br>
+                <IFRAME SRC="../blog/sidebar.html" WIDTH="200px" FRAMEBORDER="0" SCROLLING="No" MARGINHEIGHT="0" MARGINWIDTH="0" class="sidebar"></IFRAME><br>
             </div>
             <div class="content blog">
             <h1>I built a website template</h1>
@@ -24,7 +24,7 @@
             <p>
                 <ol>
                     <li>fork the template and open it in github desktop</li>
-                    <li>find the index.php</li>
+                    <li>find the index.html</li>
                     <li>replace all the place holders</li>
                     <li>repete for other top level pages</li>
                     <li>open the style.css</li>
@@ -38,7 +38,7 @@
                     <li>open friends.csv</li>
                     <li>add your friends websites</li>
                     <li>save evreything</li>
-                    <li>upload it to your host <br> <a href="../blog/web.php"><i>for more info on hosting (getting your website on the internet) view this article I made</i></a></li>
+                    <li>upload it to your host <br> <a href="../blog/web.html"><i>for more info on hosting (getting your website on the internet) view this article I made</i></a></li>
                     <li>share with friends</li>
                 </ol>
             </p>
